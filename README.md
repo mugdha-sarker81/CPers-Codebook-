@@ -1,80 +1,91 @@
 # CPers Codebook
 
-A personal collection of competitive programming solutions, algorithm implementations, and coding practice exercises.
+\<p align="center">   \<b>A Personal Competitive Programming & DSA Reference\</b>   \<br>   C • C++ • Data Structures • Algorithms • Problem Solving \</p>
 
-This repository contains solutions written mainly in C and C++, organized by topic, contest, and learning phase. It is intended as a reference for revision, practice, and improving problem-solving skills.
+\<p align="center">   \<img src="[https://img.shields.io/badge/Language-C%2FC%2B%2B-blue](https://img.shields.io/badge/Language-C%2FC%2B%2B-blue)" />   \<img src="[https://img.shields.io/badge/Focus-Competitive%20Programming-orange](https://img.shields.io/badge/Focus-Competitive%20Programming-orange)" />   \<img src="[https://img.shields.io/badge/Status-Actively%20Learning-success](https://img.shields.io/badge/Status-Actively%20Learning-success)" /> \</p>
 
-## Purpose
+---
 
-- Practice competitive programming regularly
-- Strengthen algorithm and data structure knowledge
-- Build a reusable coding reference
-- Track progress across different platforms and topics
+## About
 
-## Languages
+**CPers Codebook** is my personal collection of competitive programming solutions, reusable code templates, algorithm implementations, and problem-solving practice.
 
-- C
-- C++
+As a CSE student at **Khulna University of Engineering & Technology (KUET)**, I created this repository to organize my programming journey and build a reliable reference for future contests.
 
-## Platforms Covered
+Rather than repeatedly implementing everything from scratch, this repository helps me keep useful algorithms, data structures, and frequently used code snippets organized in one place.
 
-- HackerRank
-- Codeforces
-- Phitron
-- XPSC
-- Other training and practice sessions
+## What's Inside?
+
+- **Problem Solutions:** Practice problems from Codeforces, HackerRank, Phitron, and other platforms.
+- **Data Structures:** Linked Lists, Binary Trees, and other fundamental structures.
+- **Algorithms:** Implementations and reusable approaches for common problems.
+- **Number Theory:** Mathematical algorithms and useful number-theoretic techniques.
+- **Code Templates:** Ready-to-use snippets for competitive programming.
+- **Learning Records:** Solutions and exercises collected throughout my learning journey.
 
 ## Repository Structure
 
 ```text
-CPers-Codebook-
-├── Day1/
-├── Day3-codeforses/
-├── Phitron_codefest_01/
-├── codeforces_900/
-├── final_exam_C_phitron/
-├── intro 2 c++ 4 DSA/
-├── mid_term_intro_to_c++4DSA/
-├── phitron-sem2-DSA-assignment_1/
-├── phitron_codefest_02/
-├── road 2 XPSC_module_01_02_03/
+CPers-Codebook-/
+│
 ├── basic operations .cpp
 ├── binary_tree.cpp
 ├── linked list ( singly ) .cpp
 ├── number theory.cpp
 ├── priority based ordered set.cpp
-├── README.md
-└── ...
+│
+├── Day1/
+├── Day3-codeforses/
+├── Phitron_codefest_01/
+├── phitron_codefest_02/
+├── codeforces_900/
+├── final_exam_C_phitron/
+├── intro 2 c++ 4 DSA/
+├── mid_term_intro_to_c++4DSA/
+├── phitron-sem2-DSA-assignment_1/
+├── road 2 XPSC_module_01_02_03/
+│
+└── README.md
 ```
 
-## What You'll Find
+*The repository will continue to evolve as I explore more topics and solve new problems.*
 
-- Competitive programming solutions
-- Data structure and algorithm implementations
-- Practice problems from multiple platforms
-- C++ code examples for learning and revision
-- Problem-based references alongside solutions
+## Languages & Tools
+
+| Category           | Technologies                    |
+| ------------------ | ------------------------------- |
+| Languages          | C, C++                          |
+| IDE / Editor       | VS Code, Code::Blocks           |
+| Version Control    | Git, GitHub                     |
+| Practice Platforms | Codeforces, HackerRank, Phitron |
+
+## My Competitive Programming Journey
+
+I am continuously working on improving my problem-solving ability, algorithmic thinking, and implementation skills.
+
+Some of my current goals:
+
+- Strengthen Data Structures and Algorithms.
+- Improve Codeforces rating and problem-solving consistency.
+- Practice mathematics and number theory.
+- Build efficient and reusable code templates.
+- Prepare for ICPC and other competitive programming contests.
 
 ## How to Use This Repository
 
-1. Browse the folders by topic or contest.
-2. Open a file to study the logic and implementation.
-3. Try solving the problem on your own before checking the solution.
-4. Use the repository as a reference while practicing for contests and interviews.
+1. Explore the topic-wise code files and practice folders.
+2. Understand the implementation rather than blindly copying it.
+3. Try solving problems independently before checking existing solutions.
+4. Revisit the templates whenever you need a quick reference.
 
-## Notes
+## A Note
 
-This repository is mainly for:
+This is not intended to be a perfect or complete competitive programming library.
 
-- learning
-- practice
-- revision
-- problem-solving reference
+It is a **living codebook** — a record of what I learn, implement, practice, and improve over time.
 
-## Author
+There may be multiple approaches to the same problem, and some implementations may be updated as my understanding grows.
 
-Mugdha Sarker
+---
 
-## License
-
-This repository is shared for educational and learning purposes.
+\<p align="center">   \<b>Keep Learning. Keep Solving. Keep Improving.\</b>   \<br>\<br>   \<a href="[https://github.com/mugdha-sarker81](https://github.com/mugdha-sarker81)">Mugdha Sarker\</a>   \<br>   CSE Undergraduate | KUET \</p>
