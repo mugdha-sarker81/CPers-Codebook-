@@ -1,15 +1,15 @@
 # CPers Codebook
 
-A personal repository for competitive programming practice, algorithm learning, and problem-solving reference.
+A personal collection of competitive programming solutions, algorithm implementations, and coding practice exercises.
 
-This repo contains solutions written mainly in C and C++, covering a variety of topics, coding platforms, and training programs. I have included problem references and implementations to help with revision and learning.
+This repository contains solutions written mainly in C and C++, organized by topic, contest, and learning phase. It is intended as a reference for revision, practice, and improving problem-solving skills.
 
 ## Purpose
 
 - Practice competitive programming regularly
-- Strengthen problem-solving skills
-- Maintain a useful reference for algorithms and data structures
-- Track progress across multiple platforms and topics
+- Strengthen algorithm and data structure knowledge
+- Build a reusable coding reference
+- Track progress across different platforms and topics
 
 ## Languages
 
@@ -22,9 +22,9 @@ This repo contains solutions written mainly in C and C++, covering a variety of 
 - Codeforces
 - Phitron
 - XPSC
-- Other coding practice and training sessions
+- Other training and practice sessions
 
-## Repository Overview
+## Repository Structure
 
 ```text
 CPers-Codebook-
@@ -47,30 +47,34 @@ CPers-Codebook-
 └── ...
 ```
 
-## What is inside?
+## What You'll Find
 
 - Competitive programming solutions
 - Data structure and algorithm implementations
-- Practice problems from different platforms
-- Code examples for learning and revision
-- Problem-specific references linked with solutions
+- Practice problems from multiple platforms
+- C++ code examples for learning and revision
+- Problem-based references alongside solutions
 
-## How to use this repository
+## How to Use This Repository
 
-1. Browse through the folders by topic or contest.
-2. Open any `.cpp` file to study the solution.
-3. Try solving the problem yourself first.
-4. Use the code as a reference to improve understanding and speed.
+1. Browse the folders by topic or contest.
+2. Open a file to study the logic and implementation.
+3. Try solving the problem on your own before checking the solution.
+4. Use the repository as a reference while practicing for contests and interviews.
 
 ## Notes
 
-This repository is mainly intended for:
+This repository is mainly for:
 
-- personal practice
-- learning and revision
-- building a problem-solving habit
-- maintaining a code reference for future use
+- learning
+- practice
+- revision
+- problem-solving reference
 
 ## Author
 
 Mugdha Sarker
+
+## License
+
+This repository is shared for educational and learning purposes.
