@@ -32,17 +32,6 @@ CPers-Codebook-/
 ├── number theory.cpp
 ├── priority based ordered set.cpp
 │
-├── Day1/
-├── Day3-codeforses/
-├── Phitron_codefest_01/
-├── phitron_codefest_02/
-├── codeforces_900/
-├── final_exam_C_phitron/
-├── intro 2 c++ 4 DSA/
-├── mid_term_intro_to_c++4DSA/
-├── phitron-sem2-DSA-assignment_1/
-├── road 2 XPSC_module_01_02_03/
-│
 └── README.md
 ```
 
