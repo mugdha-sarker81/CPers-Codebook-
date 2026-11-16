@@ -1,8 +1,6 @@
 # CPers Codebook
 
-\<p align="center">   \<b>A Personal Competitive Programming & DSA Reference\</b>   \<br>   C • C++ • Data Structures • Algorithms • Problem Solving \</p>
-
-\<p align="center">   \<img src="[https://img.shields.io/badge/Language-C%2FC%2B%2B-blue](https://img.shields.io/badge/Language-C%2FC%2B%2B-blue)" />   \<img src="[https://img.shields.io/badge/Focus-Competitive%20Programming-orange](https://img.shields.io/badge/Focus-Competitive%20Programming-orange)" />   \<img src="[https://img.shields.io/badge/Status-Actively%20Learning-success](https://img.shields.io/badge/Status-Actively%20Learning-success)" /> \</p>
+<b>A Personal Competitive Programming & DSA Reference\</b>   \<br>   C • C++ • Data Structures • Algorithms • Problem Solving 
 
 ---
 
