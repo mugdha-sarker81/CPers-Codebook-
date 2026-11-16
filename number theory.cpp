@@ -4,6 +4,10 @@ using ll= long long;
 
 int main() { }
 
+// lcm = least common multiple
+// gcd = greatest common divisor 
+int lcm(int a,int b){  return (a/__gcd(a,b))*b; }  
+
 vector<ll> finddivisors(ll n){  //all divisiors
     vector<ll> divisors;
     for(ll i=1; i*i<=n; i++){
